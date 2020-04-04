@@ -1,0 +1,7 @@
+class planet {
+void revolve() {
+System.out.println("Revolve");
+}
+public static void main(string[] args) {
+}
+}
